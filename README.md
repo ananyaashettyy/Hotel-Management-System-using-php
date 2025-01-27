@@ -8,6 +8,6 @@ Create Database named hotel.
 Import database hotel.sql from downloaded folder(inside database)
 4. Open Your browser put inside "http://localhost/Online Hotel Booking/"
 
-Admin Login Details
+# Admin Login Details
 Login Id: admin
 Password: 12345
