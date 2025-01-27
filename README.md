@@ -10,4 +10,5 @@ Import database hotel.sql from downloaded folder(inside database)
 
 # Admin Login Details
 Login Id: admin
+
 Password: 12345
